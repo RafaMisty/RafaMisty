@@ -1,4 +1,10 @@
-## Hi there 👋
+- Olá!
+- EStou estudando no Alura
+- Aqui posto alguns de meus projetos que faço através do curso
+
+- Heya!
+- I'm studying at Alura
+- here i post some of my projects that i make through the course
 
 <!--
 **RafaMisty/RafaMisty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
