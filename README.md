@@ -6,8 +6,8 @@
 - I'm studying at Alura
 - here i post some of my projects that i make through the course
 
-![](10096778697940955582)
- 10096778697940955582
+![](https://tenor.com/pt-BR/view/murder-drones-v-from-murder-drones-dancing-sped-up-gif-1009677869794095558)
+ 
 
 <!--
 **RafaMisty/RafaMisty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
