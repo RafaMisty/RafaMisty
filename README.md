@@ -6,6 +6,9 @@
 - I'm studying at Alura
 - here i post some of my projects that i make through the course
 
+![](10096778697940955582)
+ 10096778697940955582
+
 <!--
 **RafaMisty/RafaMisty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
