@@ -1,8 +1,8 @@
-- Olá!
+# Olá!
 - EStou estudando no Alura
 - Aqui posto alguns de meus projetos que faço através do curso
 
-- Heya!
+# Heya!
 - I'm studying at Alura
 - here i post some of my projects that i make through the course
 
